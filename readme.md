@@ -19,11 +19,11 @@
 
 
  <p align="left">
-  <a href="https://github.com/Kingbega/BARAKA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD?label=Fork&style=social">
+  <a href="https://github.com/Baraka-Bega/BARAKA-MD/fork">
+    <img src="https://img.shields.io/github/forks/Baraka-Bega/BARAKA-MD?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/Kingbega/BARAKA-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD?style=social">
+  <a href="https://github.com/Baraka-Bega/BARAKA-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Baraka-Bega/BARAKA-MD?style=social">
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -56,7 +56,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Kingbega/BARAKA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Baraka-Bega/BARAKA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (SCANNING QR1)
@@ -105,7 +105,7 @@
 
 2. Now Deploy
     <br>
-    <a href='https://repl.it/github/Kingbega/BARAKA-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github/Baraka-Bega/BARAKA-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
     
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -118,7 +118,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Kingbega/BARAKA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Baraka-Bega/BARAKA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (SCANNING QR1)
